@@ -3,33 +3,33 @@
     }
 
     .fondo { 
-    background-color: #003a4b; 
+    background-color: #d8e38c; 
     }
 
 .titulo h1{
     text-align: center;
     font-size: 3em;
-    color: rgb(117, 75, 6);
+    color: #bb9344;
 }
 
 .diario {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    background-color: #38a9af;
+    background-color: #c3dcfe;
     justify-content: space-between;
 
 }
 
 .menuu {
     text-align: center;
-    background-color: #38a9af;
+    background-color: #c3dcfe;
     
 }
 
 .menuu2 {
     text-align: center;
-    background-color: #38a9af;
+    background-color: #c3dcfe;
     }
 .tarjeta {
     width: 55em;
@@ -43,7 +43,7 @@
 .marcoTarjeta {
     padding: 0em;
     border-radius: 0.6em;
-    background-color: #38a9af;
+    background-color: #c3dcfe;
     margin: auto;
     align-content: center;
 }
@@ -58,7 +58,7 @@
     }
 
 .textTarjeta {
-    background-color:  #38a9af;
+    background-color:  #c3dcfe;
     padding: 1.5em;
     border-radius: 0 0 0.5em 0.5em;
     margin: 0 0 0 0;
@@ -80,7 +80,7 @@ text-align: center;
 
 .tarjetaIndex {
     width: 15em;
-    background-color:  #38a9af;
+    background-color:  #c3dcfe;
     margin: 0.5em;
     padding: 0.1em;
     border-radius: 0.6em;
@@ -91,13 +91,13 @@ text-align: center;
 .marcoTarjetaIndex {
     padding: 0.5em;
     border-radius: 0.6em;
-    background-color: #38a9af;
+    background-color: #c3dcfe;
     margin: auto;
     align-content: center;
 }
 
 .textTarjetaIndex {
-    background-color:  #38a9af;
+    background-color:  #c3dcfe;
     padding: 0.1em;
     border-radius: 0 0 0.5em 0.5em;
     margin: 0.2em 0 0 0;
@@ -131,7 +131,7 @@ margin: 0 0 0 0;
 }
 
 .desarrolloNoticiaIndex {
-color: #6673a8;
+color: #2c5463;
 text-align: justify;
 
 }
@@ -140,7 +140,7 @@ text-align: justify;
 
 .derecho {
     width: 18em;
-    background-color:  #38a9af;
+    background-color:  #c3dcfe;
     margin: 0.5em;
     padding: 0em;
     border-radius: 0.6em;
@@ -151,7 +151,7 @@ text-align: justify;
 .marcoTarjetaDerecho {
     padding: 0.5em;
     border-radius: 0.6em;
-    background-color:  #38a9af;
+    background-color:  #c3dcfe;
     margin: auto;
     position: fixed;
    
@@ -159,7 +159,7 @@ text-align: justify;
 }
 
 .textTarjetaDerecho {
-    background-color: #38a9af;
+    background-color: #c3dcfe;
     padding: 0.5em;
     border-radius: 0 0 0.5em 0.5em;
     margin: 0.2em 0 0 0;
@@ -174,7 +174,7 @@ margin: 0 0 0 0;
 }
 
 .descripcionDerecho {
-color: #1d1630;
+color: #2c5463;
 }
 
 
@@ -197,19 +197,19 @@ color: #1d1630;
 .tituloNoticias h2{
     text-align: center;
     font-size: 2.8em;
-    color: #1d1630;
+    color: #2c5463;
 
 }
 
 
 .tarjetaIndex a:visited, .tarjetaIndex a:link, .tarjetaIndex a:active {
     text-decoration: none;
-    color: black;
+    color: #2c5463;
 }
 
 
 .tarjetaIndex:hover {
-    box-shadow: 5px 5px 10px black ;
+    box-shadow: 5px 5px 10px #2c5463 ;
     transition: 0.5s;
 }
 
@@ -219,11 +219,11 @@ color: #1d1630;
 
 .menuu a:visited, .menuu a:link, .menuu a:active {
     text-decoration: none;
-    color: black;
+    color: #2c5463;
 }
 
 .menuu a:hover {
-    box-shadow: 5px 5px 10px black ;
+    box-shadow: 5px 5px 10px #2c5463;
     transition: 0.5s;
 }
 
@@ -234,11 +234,11 @@ color: #1d1630;
 
 .menuu2 a:visited, .menuu2 a:link, .menuu2 a:active {
     text-decoration: none;
-    color: black;
+    color: #2c5463;
 }
 
 .menuu2 a:hover {
-    box-shadow: 5px 5px 10px black ;
+    box-shadow: 5px 5px 10px #2c5463 ;
     transition: 0.5s;
 }
 
@@ -249,7 +249,7 @@ color: #1d1630;
 
 .derecho a:visited, .derecho a:link, .derecho a:active {
     text-decoration: none;
-    color: black;
+    color: #2c5463;
     font-size: 15px;
 }
 

@@ -1,0 +1,255 @@
+.titulo {
+    padding:  0em 0em 0.1em 0em ;              
+    }
+
+    .fondo { 
+    background-color: #003a4b; 
+    }
+
+.titulo h1{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(117, 75, 6);
+}
+
+.diario {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #38a9af;
+    justify-content: space-between;
+
+}
+
+.menuu {
+    text-align: center;
+    background-color: #38a9af;
+    
+}
+
+.menuu2 {
+    text-align: center;
+    background-color: #38a9af;
+    }
+.tarjeta {
+    width: 55em;
+    margin: 0.5em;
+    padding: 0.5em;
+    border-radius: 0.6em;
+    min-width: 74%;
+  
+}
+
+.marcoTarjeta {
+    padding: 0em;
+    border-radius: 0.6em;
+    background-color: #38a9af;
+    margin: auto;
+    align-content: center;
+}
+
+.imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.2em 0.2em 0.2em 0.2em;
+    align-content: center;
+    
+    }
+
+.textTarjeta {
+    background-color:  #38a9af;
+    padding: 1.5em;
+    border-radius: 0 0 0.5em 0.5em;
+    margin: 0 0 0 0;
+}
+
+.tituloNoticia {
+text-align: center;
+font-size: 2.5em;
+margin: 0 0 0 0;
+
+}
+
+.desarrolloNoticia {
+color: #6673a8;
+text-align: center;
+
+
+}
+
+.tarjetaIndex {
+    width: 15em;
+    background-color:  #38a9af;
+    margin: 0.5em;
+    padding: 0.1em;
+    border-radius: 0.6em;
+    min-width: 5%;
+  
+}
+
+.marcoTarjetaIndex {
+    padding: 0.5em;
+    border-radius: 0.6em;
+    background-color: #38a9af;
+    margin: auto;
+    align-content: center;
+}
+
+.textTarjetaIndex {
+    background-color:  #38a9af;
+    padding: 0.1em;
+    border-radius: 0 0 0.5em 0.5em;
+    margin: 0.2em 0 0 0;
+    
+
+}
+
+
+.tarjetaIndex h3 {
+    text-align: justify;
+    font-size: 17px;
+    font-style: italic;
+    
+}
+
+
+#linkIndex{
+    text-align: right;
+}
+
+
+.nombreItemIndex {
+    text-align: center;
+}
+
+.tituloNoticiaIndex {
+text-align: center;
+font-size: 2.5em;
+margin: 0 0 0 0;
+
+}
+
+.desarrolloNoticiaIndex {
+color: #6673a8;
+text-align: justify;
+
+}
+
+
+
+.derecho {
+    width: 18em;
+    background-color:  #38a9af;
+    margin: 0.5em;
+    padding: 0em;
+    border-radius: 0.6em;
+    min-width: 15%;
+     
+}
+
+.marcoTarjetaDerecho {
+    padding: 0.5em;
+    border-radius: 0.6em;
+    background-color:  #38a9af;
+    margin: auto;
+    position: fixed;
+   
+    
+}
+
+.textTarjetaDerecho {
+    background-color: #38a9af;
+    padding: 0.5em;
+    border-radius: 0 0 0.5em 0.5em;
+    margin: 0.2em 0 0 0;
+    
+}
+
+.tituloDerecho {
+text-align: center;
+font-size: 2.5em;
+margin: 0 0 0 0;
+
+}
+
+.descripcionDerecho {
+color: #1d1630;
+}
+
+
+.links { 
+    text-align: right;
+}
+
+.linkIndex { 
+    text-align: right;
+}
+
+.cuerpo {
+    text-align: justify;
+    text-indent: 2em;
+    font-size: medium;
+
+    
+}
+
+.tituloNoticias h2{
+    text-align: center;
+    font-size: 2.8em;
+    color: #1d1630;
+
+}
+
+
+.tarjetaIndex a:visited, .tarjetaIndex a:link, .tarjetaIndex a:active {
+    text-decoration: none;
+    color: black;
+}
+
+
+.tarjetaIndex:hover {
+    box-shadow: 5px 5px 10px black ;
+    transition: 0.5s;
+}
+
+.tarjetaIndex {
+    transition: 0.5s;
+}
+
+.menuu a:visited, .menuu a:link, .menuu a:active {
+    text-decoration: none;
+    color: black;
+}
+
+.menuu a:hover {
+    box-shadow: 5px 5px 10px black ;
+    transition: 0.5s;
+}
+
+.menuu a {
+    transition: 0.5s;
+}
+
+
+.menuu2 a:visited, .menuu2 a:link, .menuu2 a:active {
+    text-decoration: none;
+    color: black;
+}
+
+.menuu2 a:hover {
+    box-shadow: 5px 5px 10px black ;
+    transition: 0.5s;
+}
+
+.menuu2 a {
+    transition: 0.5s;
+}
+
+
+.derecho a:visited, .derecho a:link, .derecho a:active {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
